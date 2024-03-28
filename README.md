@@ -1,4 +1,4 @@
-# Runty
+# Runny
 
 Runty is an Android client for Process Automation, Runbook Automation and Rundeck Oss.
 
