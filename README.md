@@ -9,6 +9,6 @@ The last version is:
 - Register url instance and its token
 - List of projects
 
-- Projects
+- **Projects**
   - List of jobs
   - List of executions
